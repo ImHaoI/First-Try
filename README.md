@@ -1,7 +1,1 @@
-//First-Try
-//try my best
-#include<stdio.h>
-int main(){
-printf("Hello World!");
-return 0;
-}
+Just for test
